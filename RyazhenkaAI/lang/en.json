@@ -1,0 +1,9 @@
+{
+  "AI-FAQ Assistant for tuner": "AI-FAQ Assistant for tuner",
+  "Enter a setting key or description:": "Enter a setting key or description:",
+  "Back — to return. Enter — search": "Back — to return. Enter — search",
+  "No info found for request": "No info found for request",
+  "Hello": "Hello",
+  "What can you do": "I can explain overlays, themes, settings, and features. Just ask your question!",
+  "How to change theme?": "Go to Settings → Theme, pick one and save. Place your ini files in themes/ folder!"
+}

@@ -1,0 +1,14 @@
+{
+  "Hello": "Hello! I'm your AI assistant — can explain any feature, setting, theme, or update in your Ryazhenka CFW or tuner!",
+  "How to change theme?": "Go to Settings → Theme. Select a theme and confirm. Add any .ini to the themes/ folder for custom styles!",
+  "Switch won't boot?": "Enter Rescue Mode, delete the last added ovl/theme, update Atmosphere, or restore your previous profile.",
+  "How to make OC profile?": "In the Tuner, pick desired frequencies, click 'Save as profile' — it will appear for quick switching.",
+  "Auto Fan": "Automatic fan enables cooling only when your Switch heats up too much.",
+  "Update": "Overlay & tuner can be updated anytime via Settings → Update, or by replacing the ovl file.",
+  "Profile": "A set of settings (OC, language, theme) you can quickly select and apply.",
+  "Eco Mode": "Lowers frequencies for max battery life, minimum heat.",
+  "OC Mode": "Maximum overclock — best FPS for demanding games. Watch your temps!",
+  "Rescue Mode": "Safe mode — resets overclock and risky settings, restores reliable boot.",
+  "theme": "Theme support via ini — dark, classic, light, ryazha, or any custom!",
+  "help": "I can explain any menu option, bug, profile, theme, or give you real Nintendo Switch advice from GBAtemp!"
+}
