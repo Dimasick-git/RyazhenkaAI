@@ -1,5 +1,5 @@
 ##################################################################################
-# RyazhenkaAI Makefile (flat, no build/Makefile)
+# RyazhenkaAI Makefile (flat, fixed for explicit libnx path)
 # Author: Dimasick-git
 # Version: 1.0.0
 ##################################################################################
@@ -21,6 +21,7 @@ NO_ICON      := 1
 
 CFLAGS    := -g -Wall -O2 -ffunction-sections -fdata-sections
 CXXFLAGS  := $(CFLAGS) -std=c++17
+LDFLAGS   += -L$(DEVKITPRO)/libnx/lib
 LIBS      := -lnx
 
 all: $(TARGET).ovl
